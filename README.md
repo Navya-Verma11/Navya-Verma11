@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-verma11&label=Profile%20views&color=0e75b6&style=flat" alt="navya-verma11" /> </p>
 
-- 🔭 I’m currently working on **ShareSquare**
+- 🔭 I’m currently working on **Profolio**
 
 - 🌱 I’m currently learning **Python, Java and Web Development**
 
